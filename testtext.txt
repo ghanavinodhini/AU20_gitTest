@@ -1,5 +1,7 @@
 sample text
 
-continue write
+continue skriv
 
 line 3 starts here
+
+4th line comes here
